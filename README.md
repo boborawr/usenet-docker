@@ -1,14 +1,13 @@
-Usenet Docker
-Containers
-[linuxserver/sabnzbd](https://github.com/linuxserver/docker-sabnzbd) - SABnzbd
-[plexinc/plex](https://hub.docker.com/r/plexinc/pms-docker) - Plex
-[linuxserver/sonarr](https://github.com/linuxserver/docker-sonarr) - Sonarr
-[linuxserver/radarr](https://github.com/linuxserver/docker-radarr) - Radarr
-[netdata/netdata](https://hub.docker.com/r/netdata/netdata) - Netdata
-[portainer/portainer](https://hub.docker.com/r/portainer/portainer) - Portainer
-[phpmyadmin/phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/) - PHPMyAdmin
-[linuxserver/mariadb](https://hub.docker.com/r/linuxserver/mariadb) - MariaDB
-[v2tec/watchtower](https://hub.docker.com/r/v2tec/watchtower) - Watchtower
+# Containers
+- [linuxserver/sabnzbd](https://github.com/linuxserver/docker-sabnzbd) - SABnzbd
+- [plexinc/plex](https://hub.docker.com/r/plexinc/pms-docker) - Plex
+- [linuxserver/sonarr](https://github.com/linuxserver/docker-sonarr) - Sonarr
+- [linuxserver/radarr](https://github.com/linuxserver/docker-radarr) - Radarr
+- [netdata/netdata](https://hub.docker.com/r/netdata/netdata) - Netdata
+- [portainer/portainer](https://hub.docker.com/r/portainer/portainer) - Portainer
+- [phpmyadmin/phpmyadmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/) - PHPMyAdmin
+- [linuxserver/mariadb](https://hub.docker.com/r/linuxserver/mariadb) - MariaDB
+- [v2tec/watchtower](https://hub.docker.com/r/v2tec/watchtower) - Watchtower
 
 # Docker Setup
 
