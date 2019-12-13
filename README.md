@@ -12,5 +12,5 @@
 # Docker Setup
 
 1. Set `PLEX_CLAIM` from https://www.plex.tv/claim/ in compose file along with proper `ADVERTISE_IP` of Docker host.
-2. Configure `/etc/environment` with `UID` (`PUID`) and ``GID` (`PGID`) of user with access to TV/Movie/Download directories exposed to Docker containers along with `TZ`, `USERDIR` and any password you want to use for MariaDB with `MYSQL_ROOT_PASSWORD`.
+2. Configure `/etc/environment` with the userid (`PUID`) and groupid (`PGID`) of user with access to TV/Movie/Download directories exposed to Docker containers along with `TZ`, `USERDIR` and any password you want to use for MariaDB with `MYSQL_ROOT_PASSWORD`.
 3. Run `docker-compose up -d` to start all the associated service containers.
